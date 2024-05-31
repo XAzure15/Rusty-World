@@ -1,1 +1,1 @@
-In this project you will find a Hello, World! with some variables
+In this project you will find a Hello, World! written in rust
