@@ -1,5 +1,4 @@
 fn main() {
-    //println!("Hello, world!");
     //let mut x=5;
     //println!("x has the value {}", x);
     //x = 6;
